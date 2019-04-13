@@ -2,11 +2,11 @@
 
 ## Introduction
 
-This is an open-sourced version of Root’s original developer take-home challenge. The intention behind this repo is to create more transparency into our hiring process and to enable the developer community to give feedback for improvement.
+This is an open-sourced version of [Root’s](https://root.co.za) original developer take-home challenge. The intention behind this repo is to create more transparency into our hiring process and to enable the developer community to give feedback for improvement.
 
 Read more about [Root’s culture](https://root.co.za/careers) and our [hiring process](https://www.offerzen.com/companies/root).
 
-If you’re doing this challenge outside of our hiring process, please let us know what you’ve come up with by sharing your workings and feedback here.
+If you’re doing this challenge outside of our hiring process, please let us know what you’ve come up with by sharing your workings and feedback [here](https://docs.google.com/forms/d/e/1FAIpQLSenN3-rF_DBBNsRoXAnpy4kmKneIYhDR_38VY41Y8wu0gY9_Q/viewform).
 
 ## Measuring candidates
 
@@ -34,4 +34,4 @@ The challenge is presented to candidates in PDF format ([see it here](/2019-04-1
 
 ## Feedback
 
-We’re always open to feedback to allow us to iterate and improve. If you have any feedback on this take-home challenge or our hiring process, please use this form. If you’re interested in hearing more about what it’s like to work at Root, please get in touch at [work@root.co.za](mailto:work@root.co.za).
+We’re always open to feedback to allow us to iterate and improve. If you have any feedback on this take-home challenge or our hiring process, please use [this form](https://docs.google.com/forms/d/e/1FAIpQLSenN3-rF_DBBNsRoXAnpy4kmKneIYhDR_38VY41Y8wu0gY9_Q/viewform). If you’re interested in hearing more about [what it’s like](https://root.co.za/careers) to work at Root, please get in touch at [work@root.co.za](mailto:work@root.co.za).
