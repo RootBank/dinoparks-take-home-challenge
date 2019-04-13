@@ -30,7 +30,7 @@ We strive to create a relevant, yet fun, challenge that allows candidates to lea
 
 ![Dinoparks User Interface](/dinoparks-ui.png?raw=true)
 
-The challenge is presented to candidates in PDF format (see it here), and the results sent back in ZIP format – which includes the code workings and a readme to explain their thinking.
+The challenge is presented to candidates in PDF format ([see it here](/2019-04-13-Root-Dinoparks-Take-Home-Challenge.pdf?raw=true "Take-home challenge")), and the results sent back in ZIP format – which includes the code workings and a readme to explain their thinking.
 
 ## Feedback
 
